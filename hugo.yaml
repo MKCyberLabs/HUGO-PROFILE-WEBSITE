@@ -149,8 +149,8 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        # - icon: fab fa-github
-        #   url: https://example.com
+        - icon: fab fa-github
+          url: https://github.com/MKCyberLabs
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/manickam-kumar
       # customIcons:
